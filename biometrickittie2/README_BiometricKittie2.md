@@ -79,3 +79,8 @@ To try them:
 Provided as-is for educational purposes. Use at your own risk.
 
 
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.

@@ -140,3 +140,8 @@ reboot
 This code is for educational and research purposes only. Use at your own risk. Interacting with private Apple frameworks and altering system security settings may violate agreements and can render devices insecure. You are responsible for complying with all applicable laws and policies.
 
 
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.
